@@ -24,9 +24,9 @@ Our backend service uses mongodb as database giving better performance on scalin
 The indexer download web pages craweled, process text to extract important and repeated informations and images then store it in a form of inverted file.
 
 ### Ranker
+the ranker sorts the web pages matching the searchText, ranker is mostly implemented in queries to give best performance. 
 
-
-### Quuery processor
+### Query processor
 
 
 ### Analysis Module

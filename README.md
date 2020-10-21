@@ -17,11 +17,11 @@ Our backend service uses mongodb as database giving better performance on scalin
 
 ### Search Engine core Divided into 5 modules
 
-#### Crawerler
+### Crawerler
 
 
 ### Indexer
-
+The indexer download web pages craweled, process text to extract important and repeated informations and images then store it in a form of inverted file.
 
 ### Ranker
 
@@ -30,3 +30,4 @@ Our backend service uses mongodb as database giving better performance on scalin
 
 
 ### Analysis Module
+Benchmarks the project.
